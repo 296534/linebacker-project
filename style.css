@@ -1,5 +1,5 @@
 body{
-    background:skyblue
+    background:navy
 }
 .navbar{
     background:orange
@@ -8,5 +8,28 @@ body{
     background-color:#f1f1f1;
 }
 .hero-section{
-    background-image: url("Chicago");
+    background-image: url("img/Chicago_Bears_vs_Green_Bay_Packers_4.jpg");
+}
+div{
+    color: white
+}
+h5{
+    text-decoration: underline;
+}
+h1{
+    text-align: center;
+    color:white;
+    text-decoration: underline;    
+}
+h6{
+    color:white;
+    text-align: center;
+}
+.picture{
+    text-align: center;
+    background-color: bisque;
+    margin-bottom: 100px;
+}
+.other{
+    color: navy;
 }
