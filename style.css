@@ -1,8 +1,9 @@
 body{
-    background:navy
+    background:navy;
+    font-family: "Stack Sans Text", sans-serif;
 }
 .navbar{
-    background:orange
+    background:orange;
 }
 .band-1{
     background-color:#f1f1f1;
@@ -11,7 +12,7 @@ body{
     background-image: url("img/Chicago_Bears_vs_Green_Bay_Packers_4.jpg");
 }
 div{
-    color: white
+    color: white;
 }
 h5{
     text-decoration: underline;
